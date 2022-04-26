@@ -1,3 +1,3 @@
-# 기능 목록
-1. 티셔츠 올리기
-2. 티셔츠 구매하기
+# Feature list
+1. Upload T-shirt
+2. Buy T-shirt
