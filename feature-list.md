@@ -2,3 +2,4 @@
 1. Upload T-shirt
 2. Buy T-shirt
 3. Put in cart
+4. Show detail page
